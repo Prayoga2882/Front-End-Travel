@@ -1,7 +1,3 @@
-# Finish Folder
+Sorry for not complete the codes
+my file too large 
 
-Ini adalah repositori dari contoh project yang sudah selesai.
-Jangan mengedit apapun di sini.
-Ikuti course dengan melakukan perubahan code pada Folder Starter.
-
-Happy coding!
